@@ -1,28 +1,26 @@
 <h1 align="center">wsantl 👋</h1>
 
 <p align="center">
-  Web Developer • Linux Enthusiast
+Web Developer • Linux Enthusiast
 </p>
 
----
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,php,js,nodejs,react,html,css,bootstrap,linux" />
+</div>
+
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,php,js,nodejs,react,html,css,bootstrap,linux" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wsantl&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsantl&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
 
 </div>
 
----
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wsantx1&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsantx1&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
-
-</div>
-
----
+<br>
 
 <div align="center">
 
