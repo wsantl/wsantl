@@ -10,9 +10,7 @@
 
 <br><br>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wsantl&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsantl&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
 
 </div>
 
