@@ -1,18 +1,14 @@
-<h1 align="center">wsantl 👋</h1>
+<div align="center">
 
-<p align="center">
-Web Developer • Linux Enthusiast
-</p>
+# wsantl 👋
+
+### Web Developer • Linux Enthusiast
 
 <br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,php,js,nodejs,react,html,css,bootstrap,linux" />
-</div>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,php,linux,git" />
 
-<br>
-
-<div align="center">
+<br><br>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wsantl&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
 
@@ -20,12 +16,34 @@ Web Developer • Linux Enthusiast
 
 </div>
 
-<br>
+---
+
+## 🚀 About
+
+- Focused on Web Development
+- Linux user
+- Studying React, Node.js and PHP
+- Passionate about technology and open source
+
+---
+
+## 🌐 Socials
+
+<div align="left">
+
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube)](https://youtube.com/)
+
+</div>
+
+---
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://instagram.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube)](https://youtube.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+```bash
+$ whoami
+wsantl
+```
 
 </div>
